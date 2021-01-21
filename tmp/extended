@@ -1,0 +1,5 @@
+C++ 难学不仅在于繁杂的语法, 语法背后的语义, 语义背后的模型, 设计模型的思维; 还在于 C++ 提供了 4 种不同 (相辅相成) 的编程方式:
+- Procedural-based
+- Object-based
+- Object-oriented
+- Generic paradigm

@@ -254,5 +254,4 @@ established time: 2021-07-31 end
 9. 8 工程化: webpack, 脚手架, git flow
 
 10. 30 服务化: nosql, ssr, 性能监控, 埋点方案, PV/UV 统计, 性能监控
-
 ```
