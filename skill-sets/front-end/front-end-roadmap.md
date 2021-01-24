@@ -3,6 +3,7 @@
 ## Internet
 
 - [Browsers and how they work?](internet/browsers-and-how-they-work.md)
+- [How the web works?](internet/how-the-web-works?)
 
 - How does the internet work?
 - What is HTTP?
